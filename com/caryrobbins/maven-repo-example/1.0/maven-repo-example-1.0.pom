@@ -4,7 +4,7 @@
   <groupId>com.caryrobbins</groupId>
   <artifactId>maven-repo-example</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>maven-repo-example</name>
   <description>Example maven repo hosted on github</description>
   <url>https://github.com/carymrobbins/maven-repo-example</url>
